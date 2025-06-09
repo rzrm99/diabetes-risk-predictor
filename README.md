@@ -21,14 +21,20 @@ python src/main.py
 
 ## ⚠️ Disclaimer
 
-This project is intended **solely for educational and research purposes**.  
-It is **not approved for clinical use**, diagnosis, or treatment of any medical condition.
+### 📌 Medical Disclaimer
+This project is intended **solely for research, educational, and informational purposes**. It does **not provide medical advice**, diagnosis, treatment, or professional healthcare guidance.
 
-The author makes **no guarantees of accuracy**, and **accepts no responsibility** for any consequences of use.  
-**Always consult a licensed medical professional** for any health-related decisions.
+The model and analyses in this repository are based on publicly available datasets and do **not reflect real-time clinical decision-making or personalized assessments**. The authors are **not medical professionals**, and this project **must not be used** as a substitute for medical consultation, diagnosis, or treatment by qualified healthcare providers.
 
-By using this code, you agree to these terms.
+### ⚖️ Liability Disclaimer
+Under **no circumstances** shall the authors, contributors, or affiliated parties be liable for any direct, indirect, incidental, or consequential damages or losses arising out of the use or misuse of this software or any associated content.
 
+By using this repository, you acknowledge and agree that:
+- You use this project **entirely at your own risk**.
+- You will **not** use it for clinical, diagnostic, or medical decision-making.
+- You will **not hold** the authors or contributors legally responsible for any consequences or outcomes.
+
+This repository is provided **"as is"**, **without warranty of any kind**.See the [LICENSE](./LICENSE) file for full legal terms.
 
 
 ## ✍️ Author
