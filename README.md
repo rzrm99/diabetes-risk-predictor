@@ -11,7 +11,7 @@
 ## 🧪 How to Run
 ```bash
 pip install -r requirements.txt
-python src/diabetes_model.py
+python src/main.py
 ```
 
 ## 📄 Source Data
